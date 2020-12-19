@@ -1,9 +1,4 @@
 
-LINK TO DESIGN
-
-WEBSITE LINK
-
-DESCRIPTION
 A portfolio websit with my projects
 <ul>
 <li> <a href="https://lonialnor.github.io/Portfolio/portfolio.html">Github Page Link</a> </li>
